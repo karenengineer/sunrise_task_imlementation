@@ -1,6 +1,6 @@
 # sunrise_task_imlementation
-# Getting Sterted
-# Project written mainly using the following useful tools 
+## Getting Sterted
+### Project written mainly using the following useful tools 
 * node.js
 * express
 * postgresql
