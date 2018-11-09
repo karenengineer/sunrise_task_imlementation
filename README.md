@@ -1,4 +1,4 @@
-# sunrise_task_imlementation
+# sunrise_task_implementation
 ## Getting Sterted
 ### Project written mainly using the following useful tools 
 * node.js
