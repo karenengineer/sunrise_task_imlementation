@@ -1,5 +1,5 @@
 # sunrise_task_implementation
-## Getting Sterted
+## Getting Started
 ### Project written mainly using the following useful tools 
 * node.js
 * express
